@@ -1,6 +1,3 @@
-Litchi
-Kiwi
-Mango
-Apple
-Orange 
-Pomegranate
+Brinjal
+Potato
+Cauliflower
